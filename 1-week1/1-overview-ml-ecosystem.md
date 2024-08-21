@@ -1,3 +1,49 @@
+# Introduction to ML
+
+## What is Machine Learning?
+
+* __Tom M\. Mitchell \(1997\)__ :
+  * "A computer program is said to learn from experience  _E_  with respect to some class of tasks  _T_  and performance measure  _P_ \, if its performance at tasks in  _T_ \, as measured by  _P_ \, improves with experience  _E_ \."
+  * Source:  _Machine Learning_ \, Tom M\. Mitchell\, McGraw Hill\, 1997\.
+* __Arthur Samuel \(1959\)__ :
+  * "Machine Learning is the subfield of computer science that gives computers the ability to learn without being explicitly programmed\."
+  * Arthur Samuel is credited with coining the term "Machine Learning" in 1959\. He's known for his work on the Samuel Checkers\-playing Program\.
+* __Kevin P\. Murphy \(2012\)__ :
+  * "Machine learning is a set of methods that can automatically detect patterns in data\, and then use the uncovered patterns to predict future data\, or to perform other kinds of decision\-making under uncertainty \(such as planning how to collect more data\)\."
+  * Source:  _Machine Learning: A Probabilistic Perspective_ \, Kevin P\. Murphy\, MIT Press\, 2012\.
+* __Aurélien Géron \(2015\)__ :
+  * "Machine Learning is the science \(and art\) of programming computers so they can learn from data\.”
+  * Source: Hands\-on Machine Learning \(your text\-book\!\)
+
+## ML Origins
+
+* __Early Theoretical Foundations__ :
+  * “Reason\.\.\. is nothing but Reckoning \(that is\, Adding and Subtracting\) of the Consequences of general names agreed upon for the marking and signifying of our thoughts\.\.\.” –  _Thomas Hobbs\, Leviathon \(1651\)_
+* __Turing Test \(1950\)__ :
+  * A "universal machine" that could simulate the behavior of any other machine
+  * The "Turing Test" as a measure of a machine's ability to exhibit intelligent behavior indistinguishable from that of a human\.
+* __Advent of Electronic Computers \(1940s\-1950s\)__ :
+  * The creation of electronic computers provided the necessary tools for exploring computational approaches to problem\-solving\.
+* __Birth of Artificial Intelligence \(1956\)__ :
+  * At the Dartmouth Workshop in 1956\, the term "Artificial Intelligence" \(AI\) was coined\. This event is often considered the birth of AI as a formal academic discipline\. Early AI research focused on problem\-solving\, logical reasoning\, and symbolic methods\.
+
+![](assets/IST707-Week10.jpg)
+
+# Applications of Machine Learning
+
+* __Healthcare & Life Sciences__
+  * Disease Identification & Diagnostics\,  Drug Discovery & Personalized Medicine\, Predictive Analytics
+* __Finance & Banking__
+  * Fraud Detection\,  Algorithmic Trading\,  Credit Scoring
+* __E\-Commerce & Retail__
+  * Recommendation Systems\, Demand Forecasting\, Customer Sentiment Analysis
+* __Automotive & Transportation__
+  * Autonomous Vehicles\,  Predictive Maintenance\, Traffic Prediction
+* __Energy & Utilities__
+  * Smart Grid Management\, Predictive Maintenance for Equipment\, Energy Consumption Forecasting
+* __Entertainment & Media__
+  * Content Recommendation\, Sentiment Analysis\, Automated Content Creation
+
 # Introduction to the Python ML Ecosystem
 Machine Learning in Python is characterized by an ecosystem of libraries, each specializing in different aspects of the ML workflow. This ecosystem simplifies the process of developing and implementing ML models and ensures efficiency and versatility. The integration between these libraries allows for a streamlined workflow, from initial data handling to final model deployment.
 
