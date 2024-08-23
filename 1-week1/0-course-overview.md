@@ -115,14 +115,14 @@ Note that unless otherwise specified:
 | Week3: 9/9 | ML Workflow and Scikit-Learn  | Chapter 2 | &check; |  |
 | Week4: 9/16 | Linear Regression 1 | | &check; |  |
 | Week5: 9/23 | Pre-processing and Evaluation |  | &check; |  |
-| Week6: 9/30 | ML Workflows in Practice | Heilmeier Catechism; Appendix A (textbook) |  | |
+| Week6: 9/30 | ML Workflows in Practice | Heilmeier Catechism; Appendix A (textbook) | &check;  | |
 | Week7: 10/07 | Polynomial Regression / Project Checkpoint 1 Presentations |   |  | Project Checkpoint 1: Data and plan |
 | Week8: 10/14 (Weds only) | Logistic Regression 1 | Chapter 3 | &check; |HW1: Regression Assignment |
 | Week9: 10/21 | Logistic Regression 2 |  | &check; |  |
 | Week10: 10/28 | Regularization | |   &check; | |
 | Week11: 11/04 | Decision Trees | Chapter 6 | &check; |  Project Checkpoint 2 |
 | Week12: 11/11 | Clustering 1 | Chapter 9 | &check; |HW2:  Classifier Assignment |
-| Week13: 11/18 | Clustering 2 |  | |  |
+| Week13: 11/18 | Clustering 2 |  | &check;  |  |
 | **Thanksgiving Break! 11/25** | | **Please work on your projects**   |  |
 | Week14: 12/01 | Dimensionality reduction & Project Presentations (Checkpoint 3) | Chapter 8  |  | HW3: Clustering Assignment / Project Checkpoint 3 |
 | Week15: 12/09 | Project Checkpoint 3 |  |  |
