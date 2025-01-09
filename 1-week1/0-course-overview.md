@@ -55,7 +55,8 @@ The syllabus (available on blackboard) is the most authoritative and up-to-date 
 
 * __Weekly Assignments__
   * Due before the next class\.
-  * Extensions for excused absences only.
+  * No extensions.
+  * 2 lowest grades dropped.
 * __Large Assignments__
   * Due on scheduled date\.
   * Assignments not meeting formatting requirement returned without grading and marked as late\.
@@ -108,25 +109,26 @@ Note that unless otherwise specified:
   - Large assignments are due by class in the row they appear
   - Weekly assignments are due before the **following** class. 
 
-| Date | Class | Readings | Weekly Assignment | Large Assignments |
-| :-: | :-: | :-: | :-: | :-: |
-| Week1: 8/26 | Introduction to Course & ML Ecosystem Review |  | Warm-up (in class) ||
-| Week2: 9/2 (Weds only) | Data Wrangling in Python | Chapter 1  | &check; | |
-| Week3: 9/9 | ML Workflow and Scikit-Learn  | Chapter 2 | &check; |  |
-| Week4: 9/16 | Linear Regression 1 | | &check; |  |
-| Week5: 9/23 | Pre-processing and Evaluation |  | &check; |  |
-| Week6: 9/30 | ML Workflows in Practice | Heilmeier Catechism; Appendix A (textbook) | &check;  | |
-| Week7: 10/07 | Polynomial Regression / Project Checkpoint 1 Presentations |   |  | Project Checkpoint 1: Data and plan |
-| Week8: 10/14 (Weds only) | Logistic Regression 1 | Chapter 3 | &check; |HW1: Regression Assignment |
-| Week9: 10/21 | Logistic Regression 2 |  | &check; |  |
-| Week10: 10/28 | Regularization | |   &check; | |
-| Week11: 11/04 | Decision Trees | Chapter 6 | &check; |  Project Checkpoint 2 |
-| Week12: 11/11 | Clustering 1 | Chapter 9 | &check; |HW2:  Classifier Assignment |
-| Week13: 11/18 | Clustering 2 |  | &check;  |  |
-| **Thanksgiving Break! 11/25** | | **Please work on your projects**   |  |
-| Week14: 12/01 | Dimensionality reduction & Project Presentations (Checkpoint 3) | Chapter 8  |  | HW3: Clustering Assignment / Project Checkpoint 3 |
-| Week15: 12/09 | Project Checkpoint 3 |  |  |
-| **12/17** |  |  **Final Project Report Due** |
+| **DATE** | **Class** | **Reading Assignment** | **Weekly Assignment** | **HW Due** |
+| --- | --- | --- | --- | --- |
+| Week1: 1/13 | Introduction to Course & ML Ecosystem Review |     | **Warm-up Assignment #1 (in class)** |     |
+| Week2: 1/20 | Data Wrangling in Python (**Weds only**) | Chapter 1 | **✓** |     |
+| Week3: 1/27 | Data Wrangling cont’d |     |     |     |
+| Week4: 2/3 | ML Workflows in Practice | Heilmeier Catechism; Appendix A | **✓** |     |
+| Week5: 2/10 | ML Workflow and Scikit-Learn | Chapter 2 | **✓** |     |
+| Week6: 2/17 | Linear Regression 1 | Chapter 4 | **✓** | **Project Checkpoint 1** |
+| Week7: 2/24 | Logistic Regression 1 |     | **✓** |     |
+| Week8: 3/3 | Evaluation in ML |     | **✓** | **HW1: Regression Assignment** |
+| Week9: 3/10 | **Spring Break!** |     |     |     |
+| Week10: 3/17 | Preprocessing |     |     |     |
+| Week11: 3/24 | Decision Trees | Chapter 6 | **✓** | **Project Checkpoint 2** |
+| Week12: 3/31 | Ensemble Methods |     | **✓** |     |
+| Week13: 4/7 | Dimensionality Reduction | Chapter 8 | **✓** | **HW2: Classification Challenge** |
+| Week14: 4/14 | Clustering 1 | Chapter 9 | **✓** |     |
+| Week15: 4/21 | Clustering 2 & **Project Checkpoint 3 Presentations** |     | **✓** | **HW3: Clustering Assignment & Project Checkpoint 3** |
+| Week16: 4/28 | **Project Checkpoint 3 presentations** |     |     | **Project Checkpoint 3** |
+| **5/6** | **Final Report Due** |     |     |     |
+
 
 
 
