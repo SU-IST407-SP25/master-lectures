@@ -56,7 +56,7 @@ The syllabus (available on blackboard) is the most authoritative and up-to-date 
 
 * __Weekly Assignments__
   * Due before the next class\.
-  * Extensions for excused absences only.
+  * No extensions, but the two lowest grades will be dropped.
 * __Large Assignments__
   * Due on scheduled date\.
   * Assignments not meeting formatting requirement returned without grading and marked as late\.
