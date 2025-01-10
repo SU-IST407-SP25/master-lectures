@@ -55,7 +55,7 @@ The syllabus (available on blackboard) is the most authoritative and up-to-date 
 ## Policies
 
 * __Weekly Assignments__
-  * Due before the next class\.
+  * Due before the next class.
   * No extensions, but the two lowest grades will be dropped.
 * __Large Assignments__
   * Due on scheduled date\.
